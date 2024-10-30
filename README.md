@@ -20,10 +20,10 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/rashmikaz/rashmikaz/blob/main/TV%20Series%20Bible%20Presentation%20in%20Dark%20Brown%20Light%20Brown%20White%20Personal%20%26%20Authentic%20Style.png" width="600" height="300"/>
 </div>
 
