@@ -24,6 +24,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/rashmikaz/rashmikaz/blob/main/TV%20Series%20Bible%20Presentation%20in%20Dark%20Brown%20Light%20Brown%20White%20Personal%20%26%20Authentic%20Style.png" width="1000" height="500"/>
+  <img src="https://github.com/rashmikaz/rashmikaz/blob/main/TV%20Series%20Bible%20Presentation%20in%20Dark%20Brown%20Light%20Brown%20White%20Personal%20%26%20Authentic%20Style.png" width="1000" height="460"/>
 </div>
 
