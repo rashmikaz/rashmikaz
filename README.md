@@ -27,5 +27,4 @@
 <div align="center">
   <img src="https://github.com/rashmikaz/rashmikaz/blob/main/TV%20Series%20Bible%20Presentation%20in%20Dark%20Brown%20Light%20Brown%20White%20Personal%20%26%20Authentic%20Style.png" width="1000" height="460"/>
 </div>
-I'm a passionate software engineering student with a most focus on frontend development. I love bringing innovative ideas to life through code and am always eager to learn new skills and technologies that enhance my work.I believe that innovation and creativity are essential in tech. I'm excited to be part of an ever-evolving industry and look forward to making an impact!
-
+I'm a passionate software engineering student with a most focus on frontend development. I love bringing innovative ideas to life through code and am always eager to learn new skills and technologies that enhance my work.I believe that innovation and creativity are essential in tech.I believe that innovation and creativity are essential in tech. I'm excited to be part of an ever-evolving industry and look forward to making an impact!
