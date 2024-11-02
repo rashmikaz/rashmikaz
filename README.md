@@ -34,6 +34,6 @@ I'm a passionate software engineering student with a most focus on frontend deve
 Feel free to explore my repositories and projects! I'm open to collaborations and always eager to connect with fellow developers.
 
 <div align=left>  
-  <img width=390 src="https://github-readme-stats-snoeps-projects.vercel.app/api?username=rashmikaz&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
+  <img width=390 src="https://github-readme-stats-snoeps-projects.vercel.app/api?username=https://github.com/rashmikaz&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
 </div>
 
