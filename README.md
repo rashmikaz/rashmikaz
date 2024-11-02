@@ -2,9 +2,6 @@
   <a href="https://www.linkedin.com/in/rashmika-hewawitharane-6b3157287/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-threads-URL">
-    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
-</a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
@@ -14,6 +11,10 @@
   <a href="your-instagram-URL">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+
+  <a href="your-threads-URL">
+    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
+</a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=rashmikaz&style=flat-square&color=blue" alt=""/>
