@@ -36,4 +36,4 @@ Feel free to explore my repositories and projects! I'm open to collaborations an
 <div align=left>  
   <img width=390 src="https://github-readme-stats-snoeps-projects.vercel.app/api?username=rashmikaz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
 </div>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rashmikaz&theme=react&border_radius=1.5&card_width=462" alt="GitHub Streak" /></a>
