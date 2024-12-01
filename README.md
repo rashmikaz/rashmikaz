@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/rashmika-hewawitharane-6b3157287/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/hewawitharane">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="your-facebook-URL">
