@@ -5,7 +5,7 @@
   <a href="https://x.com/hewawitharane">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="your-facebook-URL">
+  <a href="https://web.facebook.com/rashmika.hewawitharana/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/_rashmikas/">
