@@ -13,7 +13,7 @@
   </a>
 
   <a href="your-threads-URL">
-    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
+    <img src="https://www.threads.net/@_rashmikas" alt="Threads Badge"/>
 </a>
 </div>
 
