@@ -11,10 +11,6 @@
   <a href="https://www.instagram.com/_rashmikas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-
-  <a href="your-threads-URL">
-    <img src="https://www.threads.net/@_rashmikas" alt="Threads Badge"/>
-</a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=rashmikaz&style=flat-square&color=blue" alt=""/>
