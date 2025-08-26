@@ -1,13 +1,4 @@
-<div id="badges">
-<a href="https://github.com/rashmikaz">
-  <img src="https://komarev.com/ghpvc/?username=rashmikaz&style=flat-square&color=blue" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/rashmikaz">
-  <img src="https://img.shields.io/badge/Total_Commits-{{TOTAL_COMMITS}}-blue?style=for-the-badge&logo=github" alt="Total Commits"/>
-</a>
-
-  
+<div id="badges">  
   <a href="https://www.linkedin.com/in/rashmika-hewawitharane-6b3157287/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
