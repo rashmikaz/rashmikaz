@@ -32,8 +32,4 @@
 
 I'm a passionate software engineering student with a focus on frontend development. I love bringing innovative ideas to life through code and am always eager to learn new skills and technologies that enhance my work.
 
----
-
-<!-- GitHub total commits only -->
-![Rashmikas's GitHub commit count](https://github-readme-stats.vercel.app/api?username=rashmikaz&count_private=true&show_icons=false&hide=stars,prs,issues,contribs&theme=default)
 
