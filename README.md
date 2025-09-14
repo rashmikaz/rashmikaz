@@ -32,9 +32,6 @@
 
 I'm a passionate software engineering student with a focus on frontend development. I love bringing innovative ideas to life through code and am always eager to learn new skills and technologies that enhance my work.
 
-<img src="https://img.shields.io/badge/💻%20Commits-500-blue?style=for-the-badge&logo=github" alt="Commit Count"/>
-
-
 
 
 
