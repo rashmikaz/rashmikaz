@@ -27,6 +27,8 @@
 <div align="center">
   <img src="https://github.com/rashmikaz/rashmikaz/blob/main/TV%20Series%20Bible%20Presentation%20in%20Dark%20Brown%20Light%20Brown%20White%20Personal%20%26%20Authentic%20Style.png" width="1000" height="460"/>
 </div>
+![Total Commits](https://img.shields.io/badge/Commits-💻%20dynamic-blue?style=for-the-badge)
+
 
 I'm a passionate software engineering student with a focus on frontend development. I love bringing innovative ideas to life through code and am always eager to learn new skills and technologies that enhance my work.
 
