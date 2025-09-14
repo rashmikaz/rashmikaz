@@ -31,6 +31,8 @@
 
 
 I'm a passionate software engineering student with a focus on frontend development. I love bringing innovative ideas to life through code and am always eager to learn new skills and technologies that enhance my work.
-![Commits](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/commit-badge.svg)
+
+![Commits](https://github.com/rashmikaz/rashmikaz/raw/main/commit-badge.svg)
+
 
 
