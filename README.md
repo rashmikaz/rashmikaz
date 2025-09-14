@@ -31,11 +31,9 @@
 
 
 I'm a passionate software engineering student with a focus on frontend development. I love bringing innovative ideas to life through code and am always eager to learn new skills and technologies that enhance my work.
-
 <!-- Dynamic commit count badge -->
-<!-- Include the file -->
-<!-- You can also just embed the badge link -->
-![Commits](https://github.com/rashmikaz/rashmikaz/blob/main/COMMIT_BADGE.md)
+![Rashmikas's GitHub commit count](https://github-readme-stats.vercel.app/api?username=rashmikaz&show_icons=false&count_private=true&hide=stars,prs,issues,contribs&theme=default)
+
 
 
 
