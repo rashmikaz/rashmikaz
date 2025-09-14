@@ -28,9 +28,9 @@
   <img src="https://github.com/rashmikaz/rashmikaz/blob/main/TV%20Series%20Bible%20Presentation%20in%20Dark%20Brown%20Light%20Brown%20White%20Personal%20%26%20Authentic%20Style.png" width="1000" height="460"/>
 </div>
 
-I'm a Software Engineering student passionate about **building modern and efficient web applications.  
-I enjoy tackling challenging problems, learning new technologies, and continuously improving my skills.  
-I believe in writing **clean, maintainable code** and creating solutions that make a real impact.  
+Software Engineering student passionate about building modern and efficient web applications.Enjoys tackling challenging problems, learning new technologies,and continuously improving skills.Believes in writing clean, maintainable code and creating solutions that make a real impact. Interested in collaborating on projects, sharing knowledge, and contributing to the developer community.Curiosity drives exploration of new tools, frameworks, and best practices in software development.  
+
+🌱 Always learning | 💻 Coding | 🚀 Growing | 💡 Problem Solver | 🤝 Team Player
 
 
 
