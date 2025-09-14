@@ -35,7 +35,7 @@ I'm a passionate software engineering student with a focus on frontend developme
 <!-- Dynamic commit count badge -->
 <!-- Include the file -->
 <!-- You can also just embed the badge link -->
-![Commits](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/COMMIT_BADGE.md)
+![Commits](https://github.com/rashmikaz/rashmikaz/blob/main/COMMIT_BADGE.md)
 
 
 
