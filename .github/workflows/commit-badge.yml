@@ -1,0 +1,37 @@
+name: Update Commit Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Count total commits
+        id: count_commits
+        run: |
+          COMMITS=$(git rev-list --count HEAD)
+          echo "COMMITS=$COMMITS" >> $GITHUB_ENV
+
+      - name: Generate badge
+        run: |
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='40'>
+            <rect width='200' height='40' fill='#4caf50' rx='5' ry='5'/>
+            <text x='100' y='25' font-size='14' font-family='Verdana' fill='white' text-anchor='middle'>
+              💻 Commits: $COMMITS
+            </text>
+          </svg>" > commit-badge.svg
+
+      - name: Commit and push badge
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add commit-badge.svg
+          git commit -m "Update commit badge"
+          git push
