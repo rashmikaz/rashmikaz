@@ -32,5 +32,6 @@ I'm a passionate software engineering student with a focus on frontend developme
 
 ---
 
-<!-- GitHub total commit count only -->
-![Rashmikas's Total Commits](https://img.shields.io/github/commit-activity/y/rashmikaz?style=for-the-badge&color=blue)
+<!-- GitHub total commits only -->
+![Rashmikas's GitHub commit count](https://github-readme-stats.vercel.app/api?username=rashmikaz&count_private=true&show_icons=false&hide=stars,prs,issues,contribs&theme=default)
+
