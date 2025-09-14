@@ -16,6 +16,10 @@
   </a>
 </div>
 
+## Commit History
+👉 [View all commits](https://github.com/USERNAME/REPOSITORY/commits/main)
+
+
 <img src="https://komarev.com/ghpvc/?username=rashmikaz&style=flat-square&color=blue" alt=""/>
 
 <h1>
