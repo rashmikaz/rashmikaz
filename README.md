@@ -30,7 +30,7 @@
 
 Software Engineering student passionate about building modern and efficient web applications.Enjoys tackling challenging problems, learning new technologies,and continuously improving skills.Believes in writing clean, maintainable code and creating solutions that make a real impact. Interested in collaborating on projects, sharing knowledge, and contributing to the developer community.Curiosity drives exploration of new tools, frameworks, and best practices in software development.  
 
-🌱 Always learning | 💻 Coding | 🚀 Growing | 💡 Problem Solver | 🤝 Team Player
+
 
 
 
